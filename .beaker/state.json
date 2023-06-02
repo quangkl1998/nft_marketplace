@@ -1,0 +1,13 @@
+{
+  "euphoria": {
+    "nft_marketplace": {
+      "code_id": 888,
+      "addresses": {
+        "Quang_NFT": "aura1tcct3g5g4hl7km8e2z7v0tr6mlpu29w22346gmw4q70v2w955lssr7d920"
+      },
+      "proposal": {
+        "store_code": null
+      }
+    }
+  }
+}
